@@ -125,13 +125,12 @@
     Every bottle of Nektaar is crafted with natural ingredients, sourced from local farms, and blended to nourish your body, mind, and soul. Our juices are free from artificial preservatives, colors, or added sugars – because we believe health should never be compromised.
   </p>
   <p>
-    Whether you're sipping on our cooling **Nannari** juice, detoxifying with **Lemon-Ginger-Amla**, or recharging with **Pineapple goodness**, you're enjoying nature’s purest gifts in their most refreshing form.
+    Whether you're sipping on our cooling <strong>Nannari</strong> juice, detoxifying with <strong>Lemon-Ginger-Amla</strong>, or recharging with <strong>Pineapple goodness</strong>, you're enjoying nature’s purest gifts in their most refreshing form.
   </p>
   <p>
     We’re not just about taste – we’re about tradition, sustainability, and well-being. Join the Nektaar family and experience the true essence of natural living in every drop. 💚
   </p>
 </section>
-
 
 <section id="contact">
   <h2>Contact Us</h2>

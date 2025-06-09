@@ -112,7 +112,7 @@
   <h2>Nektaar Vibe</h2>
   <p>Ever had a drink that understands your soul? Meet Nektaar – not just a drink, but a vibe! 🎉</p>
   <div class="image-gallery">
-    <img src="images/nektaar.jpg" alt="Nektaar Vibe Image" />
+    <img src="https://github.com/user-attachments/assets/bb288e23-4159-4cf3-b161-39aeca538d50" alt="Nektaar Vibe Image" />
   </div>
 </section>
 

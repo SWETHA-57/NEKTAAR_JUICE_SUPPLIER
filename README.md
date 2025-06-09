@@ -118,8 +118,20 @@
 
 <section id="about">
   <h2>About Us</h2>
-  <p>We believe in serving tradition in a bottle. Nektaar juices are rooted in Ayurvedic wisdom, blended for taste, and crafted with love to refresh your body and soul.</p>
+  <p>
+    At Nektaar Juices, we are more than just a beverage brand – we are a celebration of nature’s healing power. Founded with a deep passion for wellness and tradition, our mission is to bring you authentic, health-boosting drinks inspired by time-tested Ayurvedic recipes.
+  </p>
+  <p>
+    Every bottle of Nektaar is crafted with natural ingredients, sourced from local farms, and blended to nourish your body, mind, and soul. Our juices are free from artificial preservatives, colors, or added sugars – because we believe health should never be compromised.
+  </p>
+  <p>
+    Whether you're sipping on our cooling **Nannari** juice, detoxifying with **Lemon-Ginger-Amla**, or recharging with **Pineapple goodness**, you're enjoying nature’s purest gifts in their most refreshing form.
+  </p>
+  <p>
+    We’re not just about taste – we’re about tradition, sustainability, and well-being. Join the Nektaar family and experience the true essence of natural living in every drop. 💚
+  </p>
 </section>
+
 
 <section id="contact">
   <h2>Contact Us</h2>

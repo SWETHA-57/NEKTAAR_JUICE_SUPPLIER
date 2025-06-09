@@ -81,7 +81,7 @@
     <li>Boosts Immunity – Rich in antioxidants.</li>
   </ul>
   <div class="image-gallery">
-    <img src="https://github.com/user-attachments/assets/2fa5827c-f857-4b31-876d-e858eddba565"alt="Nannari Juice" />
+    <img src="https://github.com/user-attachments/assets/08ec112c-5217-49c3-8577-033d8847ff73" alt="Nannari Juice" />
   </div>
 
   <h2>Lemon + Ginger + Amla</h2>
